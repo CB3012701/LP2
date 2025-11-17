@@ -1,5 +1,3 @@
-// VINICIUS DO NASCIMENTO AYRES - CB3025675
-
 package Pessoa;
 import javax.swing.*;
 import java.awt.*;
